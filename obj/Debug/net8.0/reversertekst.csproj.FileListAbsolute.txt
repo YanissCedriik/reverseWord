@@ -1,0 +1,15 @@
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\bin\Debug\net8.0\reversertekst.exe
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\bin\Debug\net8.0\reversertekst.deps.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\bin\Debug\net8.0\reversertekst.runtimeconfig.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\bin\Debug\net8.0\reversertekst.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\bin\Debug\net8.0\reversertekst.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.AssemblyInfoInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.AssemblyInfo.cs
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.csproj.CoreCompileInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.sourcelink.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\refint\reversertekst.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\reversertekst.genruntimeconfig.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\reversertekst\obj\Debug\net8.0\ref\reversertekst.dll
